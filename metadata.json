@@ -1,0 +1,6 @@
+{
+  "name": "Văn Phòng QC - Kiểm tra Lỗi & Chuẩn hóa Văn bản Công sở",
+  "description": "Hệ thống kiểm tra lỗi chính tả, ngữ pháp và gợi ý nâng cấp văn phong công sở chuyên nghiệp cho giới văn phòng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
